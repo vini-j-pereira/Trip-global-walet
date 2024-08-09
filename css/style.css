@@ -61,6 +61,7 @@ background-size: cover;
 }
 
 .mobile-menu{
+    display: none;
     cursor: pointer;
 }
 
